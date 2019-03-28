@@ -1,0 +1,304 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "121",
+                        "endOffsets": "176"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "120",
+                        "endOffsets": "171"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\res\\merged\\release\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/res/merged/release/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\res\\merged\\release\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\res\\merged\\release\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "121",
+                        "endOffsets": "176"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "120",
+                        "endOffsets": "171"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,544",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,727"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "758,1068",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1063,1249"
+                    }
+                },
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,36",
+                        "endOffsets": "145,202,240"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,169",
+                        "endColumns": "57,55,29",
+                        "endOffsets": "108,164,194"
+                    }
+                },
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,8,7,9,5,3,4,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "303,435,372,505,227,59,140,575",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "366,499,429,569,297,134,221,620"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,267,336,398,467,542,622,708",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "262,331,393,462,537,617,703,753"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\res\\merged\\release\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/res/merged/release/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,544",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,727"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "758,1068",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1063,1249"
+                    }
+                },
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,8,7,9,5,3,4,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "303,435,372,505,227,59,140,575",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "366,499,429,569,297,134,221,620"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,267,336,398,467,542,622,708",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "262,331,393,462,537,617,703,753"
+                    }
+                },
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,36",
+                        "endOffsets": "145,202,240"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,169",
+                        "endColumns": "57,55,29",
+                        "endOffsets": "108,164,194"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/res/merged/release/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

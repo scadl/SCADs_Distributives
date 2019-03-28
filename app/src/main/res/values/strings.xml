@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">SCAD\'s Distributives</string>
+    <string name="hello_world" translatable="false">Enter Requered App Name:</string>
+    <string name="action_settings" translatable="false">[X] Close</string>
+    <string name="BtnCaption" translatable="false">Search!</string>
+    <string name="Result" translatable="false">Event</string>
+    <string name="Mode_item" translatable="false">Gloabal ?</string>
+    <string name="Sync_item" translatable="false">Sync now!</string>
+    <string name="import_item">Update DB</string>
+
+</resources>

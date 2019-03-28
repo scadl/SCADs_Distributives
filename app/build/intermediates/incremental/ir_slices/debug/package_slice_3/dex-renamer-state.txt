@@ -1,0 +1,4 @@
+#Sun Dec 30 23:28:35 MSK 2018
+base.0=D\:\\Works\\Mobile Apps\\SCADs_Distributives\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Works\\Mobile Apps\\SCADs_Distributives\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Works\\Mobile Apps\\SCADs_Distributives\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,8,7,9,5,3,4,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "303,435,372,505,227,59,140,575",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "366,499,429,569,297,134,221,620"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,267,336,398,467,542,622,708",
+                        "endColumns": "67,68,61,68,74,79,85,49",
+                        "endOffsets": "262,331,393,462,537,617,703,753"
+                    }
+                },
+                {
+                    "source": "D:\\Works\\Mobile Apps\\SCADs_Distributives\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,36",
+                        "endOffsets": "145,202,240"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,169",
+                        "endColumns": "57,55,29",
+                        "endOffsets": "108,164,194"
+                    }
+                },
+                {
+                    "source": "D:\\Works\\Mobile Apps\\SCADs_Distributives\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,544",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,727"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "758,1068",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1063,1249"
+                    }
+                }
+            ]
+        }
+    ]
+}

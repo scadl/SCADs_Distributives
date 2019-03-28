@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/E:\\[Works]\\[Programming for Mobile]\\Android-IntelliJ\\SCADs_Distributives\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "121",
+                        "endOffsets": "176"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "120",
+                        "endOffsets": "171"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/media/scad/WD10EZEX_1TB/!Works/[Programming for Mobile]/Android-IntelliJ/SCADs_Distributives/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "121",
+                        "endOffsets": "176"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "120",
+                        "endOffsets": "171"
+                    }
+                }
+            ]
+        }
+    ]
+}

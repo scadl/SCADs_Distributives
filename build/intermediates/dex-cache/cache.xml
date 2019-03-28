@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="56b9544a824798b474f4dc53203a00c44f7f3a83">
+        <dex dex="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\pre-dexed\debug\instant-run_91e0959bba362ba2ab11e6bc41b0c98d2c4d2ad4.jar" />
+    </item>
+    <item
+        jar="C:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1f7c19f7ce6a0e944dd0e90e5c6c5d57084505a6.jar" />
+    </item>
+    <item
+        jar="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="47c3ed52b2b2a2413706160ef192fe5a89c96e2a">
+        <dex dex="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_07d240f0e1f21f1ae13862c6bf91588d80649004.jar" />
+    </item>
+    <item
+        jar="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\[Works]\[Programming for Mobile]\Android-IntelliJ\SCADs_Distributives\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_5b3000838ba0106bbda0d30480241ed8d85b11a8.jar" />
+    </item>
+
+</items>
