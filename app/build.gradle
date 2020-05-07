@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.scadsdnd.distributives"
         minSdkVersion 17
-        targetSdkVersion 17
+        targetSdkVersion 26
     }
     buildTypes {
         release {
@@ -15,6 +15,12 @@ android {
         }
     }
     productFlavors {
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
     }
 }
 
